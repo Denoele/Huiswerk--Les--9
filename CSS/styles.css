@@ -1,0 +1,107 @@
+
+header{
+background-color: #ff0000;
+width: 100%;
+height: 50px;
+}
+footer{
+background-color: #0000ff;
+width: 100%;
+height: 50px;
+}
+#cel1{
+    background-color: rgb(7, 7, 95);
+    color: rgb(219, 37, 37);
+    width: 300px;
+    height: 150px;
+} 
+#cel2{
+    background-color: rgb(9, 9, 133);
+    color: white;
+    width: 300px;
+    height: 150px;
+} 
+#cel3{
+    background-color: rgb(11, 11, 163);
+    color: rgb(198, 240, 14);
+    width: 300px;
+    height: 150px;
+} 
+#cel4{
+    background-color: blue;
+    color: white;
+    width: 300px;
+    height: 150px;
+} 
+#cel5{
+    background-color: rgb(18, 122, 8);
+    color: rgb(124, 197, 29);
+    width: 300px;
+    height: 150px;
+} 
+#cel6{
+    background-color: rgb(16, 167, 10);
+    color: white;
+    width: 300px;
+    height: 150px;
+} 
+#cel7{
+    background-color: rgb(18, 201, 12);
+    color: rgb(114, 96, 96);
+    width: 300px;
+    height: 150px;
+} 
+#cel8{
+    background-color: rgb(13, 231, 24);
+    color: white;
+    width: 300px;
+    height: 150px;
+} 
+#cel9{
+    background-color: rgb(95, 3, 11);
+    color: rgb(59, 27, 150);
+    width: 300px;
+    height: 150px;
+} 
+#cel10{
+    background-color: rgb(112, 7, 21);
+    color: white;
+    width: 300px;
+    height: 150px;
+} 
+#cel11{
+    background-color: rgb(163, 11, 35);
+    color: rgb(29, 7, 107);
+    width: 300px;
+    height: 150px;
+} 
+#cel12{
+    background-color: rgb(200, 15, 48);
+    color: white;
+    width: 300px;
+    height: 150px;
+} 
+#cel13{
+    background-color: rgb(83, 76, 7);
+    color: rgb(1, 8, 19);
+    width: 300px;
+    height: 150px;
+} 
+#cel14{
+    background-color: rgb(109, 90, 10);
+    color: white;
+    width: 300px;
+    height: 150px;
+} 
+#cel15{
+    background-color: rgb(127, 110, 15);
+    color: rgb(238, 81, 81);
+    width: 300px;
+    height: 150px;
+} 
+#cel16{
+    background-color: rgb(145, 150, 40);
+    color: white;
+    width: 300px;
+    height: 150px;
+} 
